@@ -1,0 +1,11 @@
+facundo-0.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+facundo-0.1.dist-info/METADATA,sha256=GmzF27ZZQ4vYHVNCyWlcEdp1YutZmBmyA7p1wU8qzlM,188
+facundo-0.1.dist-info/RECORD,,
+facundo-0.1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+facundo-0.1.dist-info/WHEEL,sha256=D1Wh14kWDxPnrM-5t_6UCB-UuQNrEODtRa3vF4OsvQY,97
+facundo-0.1.dist-info/direct_url.json,sha256=jLLKig1r5TJ5wQw164XR-rZIKBP3j_npxZwD-Z7ssIo,113
+facundo-0.1.dist-info/top_level.txt,sha256=rgL5NwERbu9SXbYSD3CqPJpcaphoooZrS1qLNu-a-qI,8
+facundo/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+facundo/__pycache__/__init__.cpython-37.pyc,,
+facundo/__pycache__/nombre.cpython-37.pyc,,
+facundo/nombre.py,sha256=KHlEH1JD0-wDB2SfOyQawlGJu34R-V4ikDeqF72uG_k,137

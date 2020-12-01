@@ -1,0 +1,7 @@
+setup.py
+facundo/__init__.py
+facundo/nombre.py
+facundo.egg-info/PKG-INFO
+facundo.egg-info/SOURCES.txt
+facundo.egg-info/dependency_links.txt
+facundo.egg-info/top_level.txt

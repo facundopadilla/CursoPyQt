@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>logo.png</file>
+    <file>exportar.png</file>
+    <file>anadir.png</file>
+  </qresource>
+</RCC>
