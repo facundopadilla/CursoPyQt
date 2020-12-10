@@ -77,7 +77,7 @@
 	<li>&nbsp;&nbsp;&nbsp;&nbsp;9.8 WhatsPy: configuraciones</li>
 	<li>&nbsp;&nbsp;&nbsp;&nbsp;9.9 WhatsPy: botones</li>
 	<li>&nbsp;&nbsp;&nbsp;&nbsp;9.10 WhatsPy: quitar bordes y movimiento global</li>
-	<li>&nbsp;&nbsp;&nbsp;&nbsp;<li>&nbsp;&nbsp;&nbsp;&nbsp;9.11 WhatsPy: setear el Grip
+	<li>&nbsp;&nbsp;&nbsp;&nbsp;9.11 WhatsPy: setear el Grip</li>
 	<li>&nbsp;&nbsp;&nbsp;&nbsp;9.12 WhatsPy: desarrollo</li>
 <h3>10 - Creando archivos EXE</h3>
 	<li>&nbsp;&nbsp;&nbsp;&nbsp;10.1 Auto-py-to-exe</li>
@@ -88,4 +88,12 @@
 	<li>&nbsp;&nbsp;&nbsp;&nbsp;10.6 Crear un autoextraíble</li>
 	<li>&nbsp;&nbsp;&nbsp;&nbsp;10.7 Crear un setup</li>
 	<li>&nbsp;&nbsp;&nbsp;&nbsp;10.8 Ofuscando nuestros archivos (Experimental)</li>
+</ul>
+
+<p><h2>Links útiles</h2></p>
+<ul>
+	<li><a href="https://atom.io/">>&nbsp;&nbsp;&nbsp;&nbsp;IDE: Atom</a></li>
+	<li><a href="https://code.visualstudio.com/">>&nbsp;&nbsp;&nbsp;&nbsp;IDE: Visual Studio Code</a></li>
+	<li><a href="http://kite.com/">>&nbsp;&nbsp;&nbsp;&nbsp;Kite</a></li>
+	<li><a href="https://build-system.fman.io/qt-designer-download">>&nbsp;&nbsp;&nbsp;&nbsp;QtDesigner (Windows & Mac)</a></li>
 </ul>
