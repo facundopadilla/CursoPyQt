@@ -7,11 +7,11 @@
 <p><h2>Lista de los videos:</h2><p>
   
 <ul>
-  <li>1 - Introducción</li>
-	1.1 Introducción al curso
-	1.2 Que es PyQT5
-	1.3 Diferencia entre PyQT5 y PySide2
-	1.4 Que IDE's y versiones vamos a utilizar
+  1 - Introducción
+	<li>1.1 Introducción al curso</li>
+	<li>1.2 Que es PyQT5</li>
+	<li>1.3 Diferencia entre PyQT5 y PySide2</li>
+	<li>1.4 Que IDE's y versiones vamos a utilizar</li>
 2 - Creando nuestro entorno de trabajo
 	2.1 - Instalando dos versiones de Python
 	2.2 - Creando entornos virtuales
