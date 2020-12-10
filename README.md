@@ -100,8 +100,16 @@
 
 <p><h2>Comandos</h2></p>
 <ul>
-	<li><em>asdasd</em></li>
-	<li><a href="https://code.visualstudio.com/">>&nbsp;&nbsp;&nbsp;&nbsp;IDE: Visual Studio Code</a></li>
-	<li><a href="http://kite.com/">>&nbsp;&nbsp;&nbsp;&nbsp;Kite</a></li>
-	<li><a href="https://build-system.fman.io/qt-designer-download">>&nbsp;&nbsp;&nbsp;&nbsp;QtDesigner (Windows & Mac)</a></li>
+	<li>Instalar PyQt5: <em>pip install pyqt5</em></li>
+	<li>Instalar PySide2: <em>pip install pyside2</em></li>
+	<li>Instalar PyQt5-tools: <em>pip install pyqt5-tools</em></li>
+	<li>Instalar PyInstaller: <em>pip install pyinstaller</em></li>
+	<li>Instalar Auto-Py-To-Exe: <em>pip install auto-py-to-exe</em></li>
+	<li>Instalar VirtualEnv: <em>pip install virtualenv</em></li>
+	----------------
+	<li>UI > PY (PyQt5): <em>pyuic5 -x archivo.ui -o archivo.py</em></li>
+	<li>UI > PY (PySide2): <em>pyside2-uic archivo.ui > archivo.py</em></li>
+	<li>QRC > PY (PyQt5): <em>pyrcc5 -o archivo.py archivo.qrc</em></li>
+	<li>QRC > PY (PySide2): <em>pyside2-rcc archivo.qrc -o archivo.py</em></li>
+	
 </ul>
