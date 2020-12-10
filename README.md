@@ -4,6 +4,8 @@
 
 <p><h2>En éste repositorio tienes todo lo que vas a ver en el curso</h2><p>
 
+<p> Por consultas puedes mandarme un mensaje por <a href="https://www.facebook.com/facundodeveloper">Facebook</a> o por <a href="https://www.linkedin.com/in/facundopadilla">LinkedIn</a> <p>
+
 <p><h2>Contenido del curso</h2><p>
   
 <ul>
