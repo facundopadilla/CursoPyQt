@@ -111,5 +111,8 @@
 	<li>UI > PY (PySide2): <em>pyside2-uic archivo.ui > archivo.py</em></li>
 	<li>QRC > PY (PyQt5): <em>pyrcc5 -o archivo.py archivo.qrc</em></li>
 	<li>QRC > PY (PySide2): <em>pyside2-rcc archivo.qrc -o archivo.py</em></li>
+	----------------
+	<li>Entorno virtual con venv: <em>python -m venv nombre</em></li>
+	<li>Entorno virtual con virtualenv: <em>virtualenv nombre</em></li>
 	
 </ul>
