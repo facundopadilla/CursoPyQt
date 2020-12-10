@@ -97,3 +97,11 @@
 	<li><a href="http://kite.com/">>&nbsp;&nbsp;&nbsp;&nbsp;Kite</a></li>
 	<li><a href="https://build-system.fman.io/qt-designer-download">>&nbsp;&nbsp;&nbsp;&nbsp;QtDesigner (Windows & Mac)</a></li>
 </ul>
+
+<p><h2>Comandos</h2></p>
+<ul>
+	<li><em>asdasd</em></li>
+	<li><a href="https://code.visualstudio.com/">>&nbsp;&nbsp;&nbsp;&nbsp;IDE: Visual Studio Code</a></li>
+	<li><a href="http://kite.com/">>&nbsp;&nbsp;&nbsp;&nbsp;Kite</a></li>
+	<li><a href="https://build-system.fman.io/qt-designer-download">>&nbsp;&nbsp;&nbsp;&nbsp;QtDesigner (Windows & Mac)</a></li>
+</ul>
